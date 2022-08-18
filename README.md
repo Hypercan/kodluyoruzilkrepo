@@ -16,9 +16,9 @@ CSS
 
 ##Installation
 ---
-1.Github da dosyanın bulunduğu sayfaya gidin
-2.Sağ üst köşede bulunan CODE adlı yeşil butondan projeyi klonluyoruz.
-3.Link https://github.com/Hypercan/kodluyoruzilkrepo.git yada Zip-File şeklinde indirebilirsiniz.
+1. Github da dosyanın bulunduğu sayfaya gidin
+2. Sağ üst köşede bulunan CODE adlı yeşil butondan projeyi klonluyoruz.
+3. Link https://github.com/Hypercan/kodluyoruzilkrepo.git yada Zip-File şeklinde indirebilirsiniz.
 ---
 ##Usage
 Projeyi kullandığınız Kod-Editöründe talimatlara uyarak açabilirsiniz.
