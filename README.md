@@ -10,3 +10,5 @@ HTML
 
 CSS
 ``` style.css```
+
+[LICENSE](https://github.com/Hypercan/kodluyoruzilkrepo/blob/main/LICENSE)
