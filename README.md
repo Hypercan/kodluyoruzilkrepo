@@ -3,7 +3,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 Projenin genel görünümü
 ---
-![Image](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
+![Image]("C:\Users\90544\Desktop\Ekran görüntüsü 2022-08-18 140541.png")
 ---
 HTML
 ```index.html```
