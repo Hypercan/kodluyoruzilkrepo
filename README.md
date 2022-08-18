@@ -1,5 +1,11 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-
+---
+Projenin genel görünümü
 ![Image](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
-```index.html Code```
+---
+HTML
+```index.html```
+
+CSS
+``` style.css```
